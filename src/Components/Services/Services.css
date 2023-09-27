@@ -1,0 +1,61 @@
+.f3 > img {
+    width: 23rem;
+    height: 23rem;
+}
+
+.f3 {
+    text-align: left;
+}
+
+.f2 {
+    text-align: left;
+}
+
+.f1 {
+    text-align: left;
+    text-decoration: none;
+}
+
+.f2 > img {
+    width: 23rem;
+}
+
+.f1 > img {
+    width: 23rem;
+}
+
+.firstLine {
+    margin: 5rem 10rem  5rem 10rem ;
+    justify-content: space-between;
+    display: flex;
+}
+
+
+.hrLines{
+  position: relative;
+  max-width: 500px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.hrLines:before{
+  content:" ";
+  height: 2px;
+  width: 500px;
+  background: orangered;
+  display: block;
+  position: absolute;
+  top: 50%;
+  left: -350px;
+}
+
+.hrLines:after{
+  content:" ";
+  height: 2px;
+  width: 500px;
+  background: orangered;
+  display: block;
+  position: absolute;
+  top: 50%;
+  right: -350px;
+}

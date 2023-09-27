@@ -1,0 +1,56 @@
+.backRev {
+    background-color: white;
+    height: 85vh;
+    width:100%;
+    margin-top: 0;
+    overflow: hidden;
+}
+
+.revFirstCol > h4 {
+    font-size: 15px;
+}
+
+
+.logoz {
+    display: flex;
+    flex-direction: row;
+    margin-left: -15rem;
+}
+
+.workedWith {
+    margin-top: 6rem;
+}
+
+.ratings {
+    margin-top: 6rem;
+}
+
+.revLogos {
+    height: auto;
+    width: 170px;
+    padding: 1.5rem;
+}
+
+.revText > h3 {
+    font-size: 20px;
+    margin-left: -25rem;
+}
+
+.revCont {
+   text-align: left;
+}
+
+.james {
+    font-size: 13px;
+    color: orangered
+}
+
+.revCont > p {
+font-weight: 300;
+
+}
+
+.revCont > h4 {
+    font-weight: 400; 
+    font-size: 33px;
+}

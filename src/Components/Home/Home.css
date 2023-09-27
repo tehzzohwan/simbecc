@@ -1,0 +1,34 @@
+.back {
+    height: 75vh;
+    background-color: aliceblue;
+}
+
+.home {
+    margin-top: 10rem;
+}
+
+.wlcSpeech > h1 {
+    margin-bottom: 4rem;
+    font-size: 55px;
+    font-weight: 700;
+}
+
+img {
+    border-radius: 10px;
+}
+
+.subSpeech {
+    font-size: 23px;
+    font-weight: 300;
+}
+
+.speechCntnr {
+    text-align: left;
+}
+
+.homeBtn {
+    margin-top: -10px;
+    padding: 20px 15px;
+    text-align: center;
+}
+
